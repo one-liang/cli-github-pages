@@ -1,4 +1,4 @@
-# vue-todolist
+# cli-github-pages
 
 ## Project setup
 ```
